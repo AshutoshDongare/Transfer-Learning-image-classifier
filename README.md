@@ -13,4 +13,6 @@ thus you do not need to have large number of image samples for your custom class
 
 This scrip also shows how to save, load and predict on the trained custom model.
 
+The custom dataset used for this sample is also provided as a part of this repo. Please extract dataset and place in the same folder where the script is placed.
+
 Please email me if you need more details / help on transfer learning or this repo.
